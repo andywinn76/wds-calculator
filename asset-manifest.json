@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wds-calculator/static/css/main.60676914.css",
+    "main.js": "/wds-calculator/static/js/main.ee5b64c2.js",
+    "index.html": "/wds-calculator/index.html",
+    "main.60676914.css.map": "/wds-calculator/static/css/main.60676914.css.map",
+    "main.ee5b64c2.js.map": "/wds-calculator/static/js/main.ee5b64c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60676914.css",
+    "static/js/main.ee5b64c2.js"
+  ]
+}
