@@ -1,3 +1,13 @@
+# This project was coded from Web Dev Simplified Tutorial found here:
+
+https://www.youtube.com/watch?v=DgRrrOt0Vr8&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=35
+
+This helped me get a handle on the useReducer hook and relatively complex logic for the calculator functionality and edge cases.
+
+It was quite a challenge and I learned a valuable lesson about missing {} and how lovely the compare function is. 
+
+Ima upload this to GitHub Pages to have a working calculator app in my pocket, for no real reason aside from showing it off and practicing building gits and GitHub page deployments.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Cats
+
+Cats are amazing. I want to be them.
